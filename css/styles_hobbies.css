@@ -14,12 +14,6 @@
     background-position: 85% top;
   }
   
-  /*!
-   * Bootstrap v5.0.0-beta1 (https://getbootstrap.com/)
-   * Copyright 2011-2020 The Bootstrap Authors
-   * Copyright 2011-2020 Twitter, Inc.
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-   */
   :root {
     --bs-blue: #0d6efd;
     --bs-indigo: #6610f2;
@@ -101,15 +95,6 @@
   img {
     vertical-align: middle;
   }
-  
-  /* rtl:raw:
-  [type="tel"],
-  [type="url"],
-  [type="email"],
-  [type="number"] {
-    direction: ltr;
-  }
-  */
   
   .container {
     width: 100%;
@@ -235,19 +220,6 @@
       background-position-x: 1rem;
     }
   }
-  
-  /* rtl:begin:ignore */
-  
-  /* rtl:end:ignore */
-  
-  /* rtl:options: {
-    "autoRename": true,
-    "stringMap":[ {
-      "name"    : "prev-next",
-      "search"  : "prev",
-      "replace" : "next"
-    } ]
-  } */
   
   @keyframes spinner-border {
     to {
