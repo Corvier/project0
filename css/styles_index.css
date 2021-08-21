@@ -16,7 +16,7 @@
     }
 }
 @media screen and (max-width: 500px) {
-    html #texto-res {
+    html .texto-res {
         font-size: 14px;
     }
     html .parrafos {
