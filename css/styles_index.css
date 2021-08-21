@@ -15,6 +15,14 @@
         background-color: transparent !important;
     }
 }
+@media screen and (max-width: 500px) {
+    html #texto-res {
+        font-size: 14px;
+    }
+    html .parrafos {
+        font-size: 12px;
+    }
+}
 
 .separation-top {
     content: "";
@@ -70,3 +78,4 @@
 .bg-footer-me {
     background-color: var(--color-footer);
 }
+/*# sourceMappingURL=main.css.map */
